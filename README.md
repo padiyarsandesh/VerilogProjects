@@ -1,5 +1,6 @@
 # VerilogProjects
 
+<b>1. Asynchronous FIFO </b>
 Designed a asynchronous FIFO and relevent pointer synchronizing circuits in Verilog and verified its functionality. <br>
 
 <b>References <br>
