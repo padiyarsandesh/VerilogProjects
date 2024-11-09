@@ -15,4 +15,3 @@ Implemented SPI master which supports all 4 modes of SPI and verified functional
   
 <h2>3. BIST Design </h2> 
 Designed and implemented in Verilog to add Built in Self Test (BIST) capabilities to a given combinational logic. The Test Pattern Generator (TPG), Output Response Analyzer (ORA) and BIST controller were designed. A 1-bit full adder was considered as the circuit under test (CUT) with faults injected at various nets to verify the functionality.<br>
-Link to preprint : https://drive.google.com/file/d/1_uETnfoyAzsLgW5ddHmQlgkawODeXjPY/view?usp=sharing
